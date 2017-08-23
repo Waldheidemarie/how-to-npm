@@ -1,0 +1,25 @@
+{
+  "name": "how-to-npm",
+  "version": "0.0.1",
+  "description": "npm practice",
+  "private": "false",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rabinrai44/how-to-npm.git"
+  },
+  "author": "Rabin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rabinrai44/how-to-npm.git/issues"
+  },
+  "homepage": "https://github.com/rabinrai44/how-to-npm.git#readme",
+  "main": "server.js",
+  "devDependencies": {}
+}
